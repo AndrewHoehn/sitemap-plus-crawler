@@ -88,7 +88,3 @@ https://www.example.com/document.pdf,Document Title,PDF Document,PDF Document
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-[MIT License](LICENSE)
